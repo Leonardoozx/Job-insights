@@ -1,10 +1,11 @@
 # Boas-vindas ao repositório do Job Insights!
 
   <p align="center">
-    <p>O que foi desenvolvido</p>
     <img src="/.images/job.png" alt="Logo Aplicação" width="300"/>
   </p>
-  
+ 
+  ## O que foi desenvolvido:
+ 
   Neste projeto foram implementadas análises a partir de um conjunto de dados sobre empregos. Implementações incorporadas a um aplicativo Web desenvolvido com Flask (um framework web muito popular na comunidade Python). Também foram escritos testes para a implementação de uma análise de dados. E uma rota e view para um recurso novo usando Flask!
 
 Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e obtidos através do [Kaggle](https://www.kaggle.com/atharvap329/glassdoor-data-science-job-data), uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
@@ -44,7 +45,7 @@ Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e o
 
 5. Aproveite :)
 
-<strong>🛠 Testes</strong><br />
+## Como rodar os testes
 
 Para executar os testes certifique-se de que você está com o ambiente virtual ativado.
 
