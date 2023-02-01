@@ -23,9 +23,7 @@ Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e o
     <li>Escrever seus próprios módulos e importá-los em outros códigos.</li>
   </ul>
 
-# Orientações
-
-<strong>⚠ Como rodar o projeto</strong><br />
+# Como rodar o projeto
 
 1. Clone o repositório
 
@@ -47,8 +45,7 @@ Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e o
 
 5. Aproveite :)
 
-<details>
-  <summary><strong>🛠 Testes</strong></summary><br />
+<strong>🛠 Testes</strong><br />
 
 Para executar os testes certifique-se de que você está com o ambiente virtual ativado.
 
@@ -87,7 +84,3 @@ Para executar um teste específico de um arquivo, basta executar o comando:
 ```bash
 python3 -m pytest tests/nomedoarquivo.py::test_nome_do_teste
 ```
-
-  <p align="center">
-    <img src="/.images/sistema.png" alt="Tela Aplicação" width="800"/>
-  </p>
