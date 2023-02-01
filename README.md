@@ -1,7 +1,6 @@
 # Boas-vindas ao repositório do Job Insights!
 
-<strong>👨‍💻 O que foi desenvolvido</strong><br />
-
+## O que foi desenvolvido
   <p align="center">
     <img src="/.images/job.png" alt="Logo Aplicação" width="300"/>
   </p>
@@ -23,7 +22,7 @@ Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e o
     <li>Escrever seus próprios módulos e importá-los em outros códigos.</li>
   </ul>
 
-# Como rodar o projeto
+## Como rodar o projeto
 
 1. Clone o repositório
 
